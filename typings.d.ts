@@ -8,6 +8,7 @@
  */
 declare module '*.css';
 declare module '*.less';
+declare module '*.js';
 declare module 'vfile-message' {
   export type VFileMessage = any;
 }

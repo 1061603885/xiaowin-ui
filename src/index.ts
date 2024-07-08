@@ -15,3 +15,4 @@ export { default as Col } from './components/Col';
 export { default as Row } from './components/Row';
 export { default as Image } from './components/Image';
 export { default as Progress } from './components/Progress';
+export { default as WaterMark } from './components/WaterMark';
